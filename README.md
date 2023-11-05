@@ -15,4 +15,4 @@ The aim of this project is to develop a machine-learning model that predicts wat
 - Clone the repository into the desired location on your local machine 
 - Install libraries used (Optional)
 
-Dataset Link : <a href="https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability> Download Dataset from Kaggle </a>
+Dataset Link : https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability
